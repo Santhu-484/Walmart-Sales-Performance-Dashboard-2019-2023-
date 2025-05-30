@@ -66,9 +66,9 @@ This dashboard demonstrates how data storytelling and visual analytics can uncov
 ## 🔗 Connect With Me
 
 📧 Email: santhoshvooru@gmail.com 
-🌐 Portfolio: [https://www.datascienceportfol.io/santhoshvooru]
-💼 LinkedIn: [linkedin.com/in/santhosh484]
-🐙 GitHub: [https://github.com/Santhu-484]
+🌐 Portfolio: https://www.datascienceportfol.io/santhoshvooru
+💼 LinkedIn: linkedin.com/in/santhosh484
+🐙 GitHub: https://github.com/Santhu-484
 
 ---
 
