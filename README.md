@@ -35,9 +35,9 @@ I’m excited to share my latest Power BI project — a fully interactive dashbo
 
 ## 📷 Dashboard Preview
  
-> ![Dashboard Preview](![Screenshot 2025-05-28 190709](https://github.com/user-attachments/assets/1cf96c13-b3e6-4eda-a9bc-d28cf6964af6))
-> ![Dashboard Preview](![Screenshot 2025-05-28 190742](https://github.com/user-attachments/assets/fa2f9da4-78ac-47cd-9dc1-65b4e0a50ef3))
->![Dashboard Preview](![Screenshot 2025-05-28 190813](https://github.com/user-attachments/assets/74e2072b-ba96-48ef-96ce-dfdeb33239da))
+> (![Screenshot 2025-05-28 190709](https://github.com/user-attachments/assets/1cf96c13-b3e6-4eda-a9bc-d28cf6964af6))
+> (![Screenshot 2025-05-28 190742](https://github.com/user-attachments/assets/fa2f9da4-78ac-47cd-9dc1-65b4e0a50ef3))
+> (![Screenshot 2025-05-28 190813](https://github.com/user-attachments/assets/74e2072b-ba96-48ef-96ce-dfdeb33239da))
 ---
 
 ## 📁 What's Included
